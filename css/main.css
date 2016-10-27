@@ -1,0 +1,17 @@
+html {
+  font-family: sans-serif;
+}
+
+.card {
+  background-color: #fff;
+  border: 2px solid #000;
+  border-radius: 8px;
+}
+
+.card:hover {
+  background-color: #e6e6e6;
+}
+
+.btn:hover {
+  background-color: #333;
+}
